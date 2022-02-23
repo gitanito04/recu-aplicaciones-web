@@ -1,0 +1,18 @@
+body{
+    background-color: navajowhite;
+}
+
+p.e{
+    text-align: center;
+}
+
+p.m{
+    color: green;
+    text-align: center;
+    background-color: cornflowerblue
+}
+
+p.w{
+    color: blue;
+    background-color: white;
+}
