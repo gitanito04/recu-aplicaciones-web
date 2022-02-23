@@ -16,3 +16,12 @@ p.w{
     color: blue;
     background-color: white;
 }
+
+p.r{
+    color: red;
+    background-color: cornflowerblue;
+}
+
+p.a{
+    text-align: center;
+}
